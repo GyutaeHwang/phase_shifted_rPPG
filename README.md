@@ -6,10 +6,10 @@
 [![Video Label](http://img.youtube.com/vi/t-BFKd023L4/0.jpg)](https://youtu.be/t-BFKd023L4)
 
 ## DRP-Net
-![3_DRP-Net](https://github.com/GyutaeHwang/phase_shifted_rPPG/assets/93236013/ba067848-ec51-475a-b69f-962c50d8ec8c)
+![3_DRP-Net_배경](https://github.com/GyutaeHwang/phase_shifted_rPPG/assets/93236013/dc22ffb8-f731-4de1-b3a8-d4a72408bf28)
 
 ## BBP-Net
-![4_BBP-Net](https://github.com/GyutaeHwang/phase_shifted_rPPG/assets/93236013/9414de9f-e6aa-42e0-9867-a85a0de990a1)
+![4_BBP-Net_배경](https://github.com/GyutaeHwang/phase_shifted_rPPG/assets/93236013/7f7692a4-a249-4932-9a75-47e7c2e1faae)
 
 -----------
 ## Dataset download
