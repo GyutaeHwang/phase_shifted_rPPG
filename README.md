@@ -33,14 +33,14 @@ python3 main_stage2.py
 -----------
 
 ## Acknowledgement
-<br/>Datasets for the experiments: MMSE-HR, V4V database
+Datasets for the experiments:
 <br/>Zhang, Zheng, et al. "Multimodal spontaneous emotion corpus for human behavior analysis." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
 <br/>Revanur, Ambareesh, et al. "The first vision for vitals (v4v) challenge for non-contact video-based physiological estimation." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.
 
-<br/>Face detection method: MTCNN
+Face detection method:
 <br/>Xiang, Jia, and Gengming Zhu. "Joint face detection and facial expression recognition with MTCNN." 2017 4th international conference on information science and control engineering (ICISCE). IEEE, 2017.
 
-<br/>Frame interpolation method: FILM
+Frame interpolation method:
 <br/>Reda, Fitsum, et al. "Film: Frame interpolation for large motion." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022.
 
 -----------
