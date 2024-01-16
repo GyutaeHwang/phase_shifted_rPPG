@@ -13,22 +13,22 @@
 
 -----------
 ## Dataset download
-You can download MMSE-HR database from [HERE](https://binghamton.technologypublisher.com/tech/MMSE-HR_dataset_(Multimodal_Spontaneous_Expression-Heart_Rate_dataset))
+You can download MMSE-HR database from [HERE](https://binghamton.technologypublisher.com/tech/MMSE-HR_dataset_(Multimodal_Spontaneous_Expression-Heart_Rate_dataset)).
 
 ## Preprocessing
-'''python
+```bash
 python3 Preprocessing.py
-'''
+```
 
 ## Train DRP-Net
-'''python
+```bash
 python3 main_stage1.py
-'''
+```
 
 ## Train BBP-Net
-'''python
+```bash
 python3 main_stage2.py
-'''
+```
 -----------
 
 ## Acknowledgement
