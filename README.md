@@ -12,20 +12,21 @@
 ![4_BBP-Net_배경](https://github.com/GyutaeHwang/phase_shifted_rPPG/assets/93236013/7f7692a4-a249-4932-9a75-47e7c2e1faae)
 
 -----------
-## Dataset download
+## Train models
+### 1. Dataset download
 You can download MMSE-HR database from [HERE](https://binghamton.technologypublisher.com/tech/MMSE-HR_dataset_(Multimodal_Spontaneous_Expression-Heart_Rate_dataset)).
 
-## Preprocessing
+### 2. Preprocessing
 ```bash
 python3 Preprocessing.py
 ```
 
-## Train DRP-Net
+### 3. Train DRP-Net
 ```bash
 python3 main_stage1.py
 ```
 
-## Train BBP-Net
+### 4. Train BBP-Net
 ```bash
 python3 main_stage2.py
 ```
