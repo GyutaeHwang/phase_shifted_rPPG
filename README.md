@@ -16,17 +16,17 @@
 You can download MMSE-HR database from [HERE](https://binghamton.technologypublisher.com/tech/MMSE-HR_dataset_(Multimodal_Spontaneous_Expression-Heart_Rate_dataset))
 
 ## Preprocessing
-'''bash
+'''python
 python3 Preprocessing.py
 '''
 
 ## Train DRP-Net
-'''bash
+'''python
 python3 main_stage1.py
 '''
 
 ## Train BBP-Net
-'''bash
+'''python
 python3 main_stage2.py
 '''
 -----------
@@ -38,12 +38,8 @@ MTCNN
 FILM
 
 @article{hwang2024phase,
-
   title={Phase-shifted remote photoplethysmography for estimating heart rate and blood pressure from facial video},
-  
   author={Hwang, Gyutae and Lee, Sang Jun},
-  
   journal={arXiv preprint arXiv:2401.04560},
-
   year={2024}
 }
