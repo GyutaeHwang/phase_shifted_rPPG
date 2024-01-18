@@ -1,0 +1,20 @@
+h5py==3.1.0
+keras==2.9.0
+Keras-Preprocessing==1.1.2
+numba==0.57.1
+opencv-contrib-python==4.7.0.68
+opencv-python==4.8.1.78
+PyQt5-sip==12.11.0
+pytorch3d==0.7.5
+QtPy==2.3.0
+scikit-image @ file:///croot/scikit-image_1669241743693/work
+scikit-learn @ file:///croot/scikit-learn_1667587546862/work
+scipy==1.9.3
+tensorflow==2.9.1
+tensorflow-estimator==2.9.0
+tensorflow-gpu==2.9.1
+tensorflow-io-gcs-filesystem==0.32.0
+torch==1.12.1
+torchaudio==0.12.1
+torchinfo==1.7.1
+torchvision==0.13.1
