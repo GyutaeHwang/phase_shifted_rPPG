@@ -8,10 +8,10 @@
 You can watch the original demo video in [HERE](https://youtu.be/t-BFKd023L4)
 
 ## DRP-Net
-![3_DRP-Net_배경](https://github.com/GyutaeHwang/phase_shifted_rPPG/assets/93236013/dc22ffb8-f731-4de1-b3a8-d4a72408bf28)
+![3_DRP-Net_배경](https://github.com/GyutaeHwang/phase_shifted_rPPG/assets/93236013/dc22ffb8-f731-4de1-b3a8-d4a72408bf28){: width="70%" height="70%"}
 
 ## BBP-Net
-![4_BBP-Net_배경](https://github.com/GyutaeHwang/phase_shifted_rPPG/assets/93236013/7f7692a4-a249-4932-9a75-47e7c2e1faae)
+![4_BBP-Net_배경](https://github.com/GyutaeHwang/phase_shifted_rPPG/assets/93236013/7f7692a4-a249-4932-9a75-47e7c2e1faae){: width="70%" height="70%"}
 
 -----------
 ## Train models
