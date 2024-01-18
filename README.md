@@ -33,7 +33,7 @@ You can watch the full demo video in [HERE](https://youtu.be/t-BFKd023L4).
 ### Environment setup
 - Create the conda environment
 ```bash
-conda create -n phase_shifted_rPPG python=3.8
+conda create -n phase_shifted_rPPG python=3.9
 conda activate phase_shifted_rPPG
 pip install -r requirements.txt
 ```
