@@ -22,21 +22,35 @@ You can watch the full demo video in [HERE](https://youtu.be/t-BFKd023L4).
 </p>
 
 -----------
-## Train models
-### 1. Dataset download
+## Installation
+
+### Requirements
+Ubuntu 20.04
+CUDA 11.3
+Python v3.9.11
+Pytorch v1.12.1
+
+### Environment setup
+```bash
+conda create -n phase_shifted_rPPG python=3.8
+conda activate phase_shifted_rPPG
+pip install -r requirements.txt
+```
+
+### Dataset download
 You can download MMSE-HR database from [HERE](https://binghamton.technologypublisher.com/tech/MMSE-HR_dataset_(Multimodal_Spontaneous_Expression-Heart_Rate_dataset)).
 
-### 2. Preprocessing
+### Preprocessing
 ```bash
 python3 Preprocessing.py
 ```
 
-### 3. Train DRP-Net
+### Train DRP-Net
 ```bash
 python3 main_stage1.py
 ```
 
-### 4. Train BBP-Net
+### Train BBP-Net
 ```bash
 python3 main_stage2.py
 ```
