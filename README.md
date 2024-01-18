@@ -2,7 +2,7 @@
 
 -----------
 <p align="center">
-## Demo video
+## Demo video ##
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ You can watch the original demo video in [HERE](https://youtu.be/t-BFKd023L4)
 </p>
 
 <p align="center">
-## DRP-Net
+## DRP-Net architecture ##
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ You can watch the original demo video in [HERE](https://youtu.be/t-BFKd023L4)
 </p>
 
 <p align="center">
-## BBP-Net
+## BBP-Net architecture ##
 </p>
 
 <p align="center">
