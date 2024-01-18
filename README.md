@@ -31,6 +31,7 @@ You can watch the full demo video in [HERE](https://youtu.be/t-BFKd023L4).
 - Pytorch v1.12.1
 
 ### Environment setup
+Create the conda environment
 ```bash
 conda create -n phase_shifted_rPPG python=3.8
 conda activate phase_shifted_rPPG
