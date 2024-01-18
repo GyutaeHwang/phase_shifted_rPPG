@@ -1,4 +1,6 @@
-# Phase shifted rPPG for estimating heart rate and blood pressure from facial video
+# Phase-shifted remote photoplethysmography for estimating heart rate and blood pressure from facial video
+
+Pytorch implementation of phase-shifted rPPG for estimating heart rate and blood pressure from facial video.
 
 -----------
 ## Demo video
