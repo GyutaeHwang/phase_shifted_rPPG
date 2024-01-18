@@ -7,7 +7,7 @@
 <img src = "https://github.com/GyutaeHwang/phase_shifted_rPPG/assets/93236013/8451646c-6c52-4826-92c4-ee79ea82ea33.gif"/>
 </p>
 
-You can watch the original demo video in [HERE](https://youtu.be/t-BFKd023L4).
+You can watch the full demo video in [HERE](https://youtu.be/t-BFKd023L4).
 
 ## DRP-Net architecture
 
