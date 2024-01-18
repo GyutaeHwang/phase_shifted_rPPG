@@ -2,8 +2,9 @@
 
 Pytorch implementation of phase-shifted rPPG for estimating heart rate and blood pressure from facial video.
 
+https://arxiv.org/abs/2401.04560
 @article{hwang2024phase,
-  <br/>title={Phase-shifted remote photoplethysmography for estimating heart rate and blood pressure from facial video},
+  <br/>title={[Phase-shifted remote photoplethysmography for estimating heart rate and blood pressure from facial video](https://arxiv.org/abs/2401.04560)},
   <br/>author={Hwang, Gyutae and Lee, Sang Jun},
   <br/>journal={arXiv preprint arXiv:2401.04560},
   <br/>year={2024}
