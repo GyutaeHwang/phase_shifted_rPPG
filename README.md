@@ -31,7 +31,7 @@ You can watch the full demo video in [HERE](https://youtu.be/t-BFKd023L4).
 - Pytorch v1.12.1
 
 ### Environment setup
-Create the conda environment
+- Create the conda environment
 ```bash
 conda create -n phase_shifted_rPPG python=3.8
 conda activate phase_shifted_rPPG
@@ -42,6 +42,7 @@ pip install -r requirements.txt
 You can download MMSE-HR database from [HERE](https://binghamton.technologypublisher.com/tech/MMSE-HR_dataset_(Multimodal_Spontaneous_Expression-Heart_Rate_dataset)).
 
 ### Preprocessing
+- Requires entering a path to the dataset
 ```bash
 python3 Preprocessing.py
 ```
@@ -52,6 +53,7 @@ python3 main_stage1.py
 ```
 
 ### Train BBP-Net
+- Requires the pretrained parameter of DRP-Net
 ```bash
 python3 main_stage2.py
 ```
