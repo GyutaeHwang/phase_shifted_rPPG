@@ -2,6 +2,13 @@
 
 Pytorch implementation of phase-shifted rPPG for estimating heart rate and blood pressure from facial video.
 
+@article{hwang2024phase,
+  <br/>title={Phase-shifted remote photoplethysmography for estimating heart rate and blood pressure from facial video},
+  <br/>author={Hwang, Gyutae and Lee, Sang Jun},
+  <br/>journal={arXiv preprint arXiv:2401.04560},
+  <br/>year={2024}
+<br/>}
+
 -----------
 ## Overview
 
@@ -76,12 +83,3 @@ python3 main_stage2.py
 
 **Frame interpolation method: FILM**
 <br/>Reda, Fitsum, et al. "Film: Frame interpolation for large motion." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022.
-
------------
-
-@article{hwang2024phase,
-  <br/>title={Phase-shifted remote photoplethysmography for estimating heart rate and blood pressure from facial video},
-  <br/>author={Hwang, Gyutae and Lee, Sang Jun},
-  <br/>journal={arXiv preprint arXiv:2401.04560},
-  <br/>year={2024}
-<br/>}
