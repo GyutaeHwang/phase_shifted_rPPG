@@ -43,7 +43,7 @@ python3 main_stage2.py
 -----------
 
 ## Acknowledgement
-**Datasets for the experiments: MMSE-JR, V4V**
+**Datasets for the experiments: MMSE-HR, V4V**
 <br/>Zhang, Zheng, et al. "Multimodal spontaneous emotion corpus for human behavior analysis." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
 <br/>Revanur, Ambareesh, et al. "The first vision for vitals (v4v) challenge for non-contact video-based physiological estimation." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.
 
