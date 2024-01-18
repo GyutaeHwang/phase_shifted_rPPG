@@ -3,6 +3,11 @@
 Pytorch implementation of phase-shifted rPPG for estimating heart rate and blood pressure from facial video.
 
 -----------
+## Overview
+
+Cardiovascular diseases, such as hypertension, arrhythmias, and stroke, represent a primary contributor to the worldwide increase in mortality rates. Monitoring heart rate and blood pressure is crucial for preventing cardiovascular diseases. Therefore, recent research has been conducted on deep learning-based estimation of physiological information from camera. In this repository, we implement a deep learning framework for estimating rPPG and heart rate from different body regions based on video. Moreover, we utilize the phase differences in the pulse cycle to estimate blood pressure. In detail, we designed a frame interpolation-based augmentation technique for heart rate data and developed DRP-Net for estimating phase-shifted rPPG. To estimate blood pressure, we designed BBP-Net, which takes phase-shifted rPPG as input, and employed a scaling sigmoid function to bound the blood pressure within a reasonable range. To demonstrate the effectiveness of the proposed method, experiments were conducted on publicly available datasets, MMSE-HR and V4V datasets.
+
+-----------
 ## Demo video
 
 <p align="center">
