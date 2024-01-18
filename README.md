@@ -9,11 +9,11 @@ You can watch the original demo video in [HERE](https://youtu.be/t-BFKd023L4)
 
 ## DRP-Net
 
-<img src = "https://github.com/GyutaeHwang/phase_shifted_rPPG/assets/93236013/dc22ffb8-f731-4de1-b3a8-d4a72408bf28.png" width="70%" height="70%"/>
+<img src = "https://github.com/GyutaeHwang/phase_shifted_rPPG/assets/93236013/dc22ffb8-f731-4de1-b3a8-d4a72408bf28.png" width="50%" height="50%"/>
 
 ## BBP-Net
 
-<img src = "https://github.com/GyutaeHwang/phase_shifted_rPPG/assets/93236013/7f7692a4-a249-4932-9a75-47e7c2e1faae.png"  width="70%" height="70%"/>
+<img src = "https://github.com/GyutaeHwang/phase_shifted_rPPG/assets/93236013/7f7692a4-a249-4932-9a75-47e7c2e1faae.png"  width="50%" height="50%"/>
 
 -----------
 ## Train models
