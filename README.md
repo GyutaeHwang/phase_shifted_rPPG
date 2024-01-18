@@ -25,10 +25,10 @@ You can watch the full demo video in [HERE](https://youtu.be/t-BFKd023L4).
 ## Installation
 
 ### Requirements
-Ubuntu 20.04
-CUDA 11.3
-Python v3.9.11
-Pytorch v1.12.1
+- Ubuntu 20.04
+- CUDA 11.3
+- Python v3.9.11
+- Pytorch v1.12.1
 
 ### Environment setup
 ```bash
